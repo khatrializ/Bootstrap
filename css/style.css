@@ -1,0 +1,52 @@
+.navbar{
+    background: linear-gradient(#982e7d, #df41e4);
+    height: 10vh;
+
+}
+
+.box{
+    background-image: url(../image/img2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.box2{
+    margin-left: 50% !important;
+}
+.customer{
+    background-image: url(../image/image2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.customer-feedback-section {
+    background-image: url(../image/img2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.img-thumbnail{
+    height: 100px;
+}
+.card{
+    width: 23%;
+}
+.img-fluid{
+    height: 15vh;
+}
+.box3{
+    height: 30vh;
+    width: 400px;
+}
+.box4 {
+    height: 30vh;
+    width: 400px;
+}
+.box5{
+    height: 30vh;
+}
+.bd-footer{
+    background-image: url(../image/img12.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}  
